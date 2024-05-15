@@ -15,7 +15,7 @@ apps.populate(settings.INSTALLED_APPS)
 
 application = get_asgi_application()
 
-from app.endpoint import router
+from app.endpoints import router
 
 application = (FastAPI(openapi_url="/api/openAPI.json" , docs_url="/api/"))
 application.include_router(router , prefix='/api')
