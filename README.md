@@ -5,8 +5,10 @@ This project showcases the integration of Django with FastAPI, This is a simple 
 - Backend : Django , FastAPI
 - DataBase : postgresql
 
-
-
+## resourses 
+- https://www.stavros.io/posts/fastapi-with-django/
+- https://www.youtube.com/watch?v=1uL2FV0roDA&t=410s
+- https://fastapi.tiangolo.com/advanced/wsgi/?h=dj
 
 
 
