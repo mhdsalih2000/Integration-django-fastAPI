@@ -4,6 +4,7 @@ This project showcases the integration of Django with FastAPI, This is a simple 
 ## Tech stack
 - Backend : Django , FastAPI
 - DataBase : postgresql
+- web Server : uvicorn
 
 ## resourses 
 - https://www.stavros.io/posts/fastapi-with-django/
